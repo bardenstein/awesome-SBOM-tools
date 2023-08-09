@@ -4,20 +4,20 @@ As SBOMs become more prevalent, one of the most common questions I get is "What 
 
 
 ## Free (and/or Open Source) SBOM Generators
-- **Syft**
-- **Trivy**
-- **Cdxgen**
-- **CycloneDX generators**
+- Syft
+- Trivy
+- Cdxgen
+- CycloneDX generators
 
 
 ## SBOM Management Tools
-- **Manifest** (www.manifestcyber.com). A platform that handles the entire SBOM lifecycle, including generation, storage, vulnerability and license analysis, and sharing. 
-- **Cybeats** (www.cybeats.com). Focuses on SBOM storage/aggregation and analysis.
-- **Dependency Track.** Open-source tool developed by OWASP, closely tied in with the CycloneDX standard. Also focuses on SBOM management. Deployed locally. 
+- Manifest (www.manifestcyber.com). A platform that handles the entire SBOM lifecycle, including generation, storage, vulnerability and license analysis, and sharing. 
+- Cybeats (www.cybeats.com). Focuses on SBOM storage/aggregation and analysis.
+- Dependency Track. Open-source tool developed by OWASP, closely tied in with the CycloneDX standard. Also focuses on SBOM management. Deployed locally. 
 
 
 ## SBOMs from Analzying ICS/OT/IoT Artifacts
-- **aDolus**
-- **Finite State**
-- **NetRise**
+- aDolus
+- Finite State
+- NetRise
 
