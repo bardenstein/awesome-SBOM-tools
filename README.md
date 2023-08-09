@@ -8,7 +8,7 @@ As SBOMs become more prevalent, one of the most common questions I get is "What 
 
 
 ## SBOM Management Tools
-- Manifest([www.manifestcyber.com)
+- Manifest(www.manifestcyber.com)
 
 
 ## SBOMs from Analzying ICS/OT/IoT Artifacts
