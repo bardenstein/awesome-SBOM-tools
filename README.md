@@ -4,7 +4,7 @@ As SBOMs become more prevalent, one of the most common questions I get is "What 
 
 
 ## Free (and/or Open Source) SBOM Generators
-- Syft
+- Syft[Syft(https://github.com/anchore/syft)]
 - Trivy
 - Cdxgen
 - CycloneDX generators
